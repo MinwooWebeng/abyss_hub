@@ -3,9 +3,9 @@
 <head>
 </head>
 <body>
-    <mesh src="static/human/marina2.obj" type="model/obj">
+    <mesh src="human/marina2.obj" type="model/obj">
         <material shader="color" pos="0">
-            <img src="static/human/marina/Marina_1276_DIFF.jpg" type="image/jpeg" role="color"/>
+            <img src="human/marina/Marina_1276_DIFF.jpg" type="image/jpeg" role="color"/>
         </material>
     </mesh>
 </body>

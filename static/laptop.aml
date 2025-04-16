@@ -4,7 +4,7 @@
 </head>
 <body id="bb">
     <o pos="20.0,100.0,0.0">
-        <mesh src="static/68-laptop/mac laptop.obj" type="model/obj">
+        <mesh src="68-laptop/mac laptop.obj" type="model/obj">
             <material shader="diffuse" pos="0">
                 <img src="https://picsum.photos/400" type="image/jpeg" role="albedo"/>
             </material>
